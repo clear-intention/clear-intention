@@ -20,6 +20,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/shiv-chatnalle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiv chatnalle" height="30" width="40" /></a>
 <a href="https://wa.me/qr/VVLQEEE7O6BKO1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="shiv_139_" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/shiv_139_?igsh=MXFnaTU5Mnpsc21iYQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiv chatnalle" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
