@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [linkdin and github](https://www.linkedin.com/in/shiv-chatnalle and https://github.com/clear-intention?tab=repositories)
 
-- 📝 I regularly send posts on [Linkdin](Linkdin)
+- 📝 I regularly send posts on [Linkdin](https://www.linkedin.com/in/shiv-chatnalle)
 
 - 💬 Ask me about **HTML,CSS,JS,gsap Animation**
 
