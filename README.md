@@ -6,7 +6,13 @@
 
 - 🌱 I’m currently learning **in MIT College**
 
-- 👨‍💻 All of my projects are available at [linkdin and github](linkdin and github)
+- 👨‍💻 All of my projects are available at [linkdin and github](https://www.linkedin.com/in/shiv-chatnalle-
+
+032697319?
+
+utm_source=share&utm_campaign=share_via&utm_content
+
+=profile&utm_medium=android_app and https://github.com/clear-intention?tab=repositories)
 
 - 📝 I regularly send posts on [Linkdin](Linkdin)
 
