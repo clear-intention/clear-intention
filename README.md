@@ -28,6 +28,6 @@
 
 <p><b>Use Of Languages:-</b></p>
 
-<p><b> HTML:42%<br> CSS:%<br>JS:24%<br></b></p>
+<p><b> HTML:62%<br> CSS:80%<br>JS:35%<br></b></p>
 
 <p><b>Let's collaborate and make great Websites for great future!</b></p>
